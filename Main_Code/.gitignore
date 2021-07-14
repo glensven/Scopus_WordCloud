@@ -1,2 +1,3 @@
 # Ignore all API keys
 .env
+config.py
